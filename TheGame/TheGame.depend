@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1639316393 source:c:\users\trusx\game_cpp\thegame\main.cpp
+1639393340 source:c:\users\trusx\game_cpp\thegame\main.cpp
 	<SFML/Graphics.hpp>
 	<iostream>
 
